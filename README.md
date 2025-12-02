@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently on the track to finishing my master's degree in Human Language Technology. I am looking to explore NLP in AI as well as machine learning in general.
+I'm currently on the track to finishing my master's degree in Human Language Technology. I am looking to explore NLP in AI as well as machine learning in general. I am also pursuing data analytics as a secondary interest.
 
 
 ## 🌐 Socials:
